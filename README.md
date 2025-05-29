@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rama Aditya Faisal</h1>
 <h3 align="center">💻Programmer from Indonesia/Pati</h3>
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ramaaaaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rm-af" height="30" width="40" /></a>
 </p>
