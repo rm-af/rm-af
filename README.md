@@ -19,5 +19,5 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rm-af&show_icons=true&locale=en&layout=compact" alt="rm-af" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rm-af&show_icons=true&locale=en&layout=compact&cache_seconds=60" alt="rm-af" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rm-af&show_icons=true&locale=en" alt="rm-af" /></p>
